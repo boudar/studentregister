@@ -1,1 +1,1 @@
-# studentregister
+so i just started to learn PHP and this is my first app i made in php it is very simple a student add their information and these informations get stored in the mysql database and it shown in the admin page which is public anyway
