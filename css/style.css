@@ -1,0 +1,51 @@
+* {
+    font-family: "Audiowide", sans-serif;
+    border: 3;
+    box-sizing: border-box;
+
+}
+.logo{
+    text-align: center;
+}
+.logo img{
+    width: 200px;
+}
+p {
+    font-size: 30px;
+    font-weight: 600;
+    color: #009EDD;
+}
+.form{
+    text-align: center;
+}
+.form input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #009EDD;
+}
+.form input[type="submit"]{
+    font-size: 19px;
+    background-color: #009EDD;
+    color: blanchedalmond;
+}
+
+.form input[type="submit"]:hover{
+    background-color: #035e81;
+    box-sizing: content-box;
+}
+
+h3{
+    text-align: center;
+    color: #009EDD;
+}
+table{
+    width: 80%;
+    color: rgb(36, 39, 39);
+    text-align: center;
+    height: 50px;
+    width: 50%
+}
+th{
+    background-color: #009EDD;
+}
